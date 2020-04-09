@@ -1,0 +1,108 @@
+GROUP NO,STATE,NAME,BIOMASS,BIOSMALL,EXPREY,REFERENCE(S)
+1,Sri Lanka,Wilpattu,766,330,398.32,Eisenberg and Seidensticker 1976; McKay and Eisenberg 1974
+2,Sri Lanka,Gal Oya,886,458,662.8,Eisenberg and Seidensticker 1976; McKay and Eisenberg 1974
+3,Java,Udjung Kulon,492,492,406.36,Hougerwerf 1970; McKay and Eisenberg 1974
+4,India,Gir,6800,6800,410.01,Eisenberg and Seidensticker 1976; Schaller 1967
+5,India,Kanha,2437,2437,748.12,Eisenberg and Seidensticker 1976; Schaller 1967
+6,India,Jaldapura,984,600,339.35,Eisenberg and Seidensticker 1976; Schaller 1967
+7,India,Bharatpur,4160,1617,474.61,Eisenberg and Seidensticker 1976; Schaller 1967
+8,India,Kazaranga,2058,900,386.69,Eisenberg and Seidensticker 1976; Schaller 1967; Spillett 1967
+9,Nepal,Royal Chitawan,5370,1790,1245.98,Eisenberg and Seidensticker 1976; Schaller 1967
+10,Panama,Barro Colorado,542,169,222.14,Eisenberg 1980; Eisenberg and Thorington 1973
+11,Venezuela,Calabozo,8684,3654,2303.81,Eisenberg et al. 1979
+12,Venezuela,Hato,7460,3730,3694.37,Eisenberg 1980; Eisenberg etaL 1979
+13,Chile,Chono Island,175,175,375.75,E. Piana (pers. comm.)
+14,Argentina,Tierra Del Fuego,125,125,93,E. Piana (pers. comm.)
+15,Kenya,Lake Rudolf,405,205,53.96,Coe et aL 1976
+16,Ghana,Tano Nimri,94,150,191.37,Collins 1958
+17,Kenya,Tsavo Park,4210,1690,1933.4,Coe et aL 1976
+18,Uganda,Kabalega Falls,10164,2258,1370.15,Lock 1977
+19,Tanzania,Mkomasi,1731,1731,1357.66,Coe etal. 1976
+20,Uganda,Queen Elizabeth,18352,8282,9768.28,Field and Laws 1970; Spinage 1982
+21,Rwanda,Akagera Park,3650,2259,2421.58,Coe et al. 1976
+22,Tanzania,Ngorongoro,7561,7339,4197.01,Coe et aL 1976
+23,Cameroon,Boubaldijidah,2164,1788,1870.49,VanLavieren and Bosch 1977
+24,Kenya,Samburu,2018,1300,1012.11,Coe et aL 1976
+25,Tanzania,Serengeti,8352,8142,8929.25,Coe et al. 1976; Lamprey 1964; Sinclair and Norton-Griffiths (eds.) 1979
+26,South Africa,Kruger Park north,984,659,446.64,Coe et al. 1976
+27,Zimbabwe,Sengwa,2824,1581,2796.35,Coe et al. 1976
+28,Zimbabwe,Victoria Falls,2715,3117,2983.57,Dasmann and Mossman 1962
+29,South Africa,Kruger Park south,3783,2554,922.56,Coe etal. 1976
+30,Tanzania,Ruaha,3909,664,9104,Barnes and Douglas-Hamilton 1982; Coe etaL 1976
+31,Kenya,Lake Nakura,6688,5799,7863.57,Coeet al. 1976
+32,Kenya,Nairobi Park,4824,4438,7169.79,Coe et al. 1976; Lamprey 1964
+33,Namibia,Etosha Park,1050,526,622.82,East 1984; Hofmeyer 1980; loubert and Mostert 1975
+34,Tanzania,Doma Mikumi,2722,1048,2964.52,Lamprey 1964
+35,Zambia,Luangwa,11576,4141,2546.25,Caughley and Goddard 1975; Naylor 1973
+36,South Africa,Umfolozi,4385,2197,3802.57,Mentis 1970
+37,South Africa,Hlu-Hluhluwe,8094,6588,1097.29,"Bourquin et al. 1971; Mentis 1970,1980"
+38,South Africa,William Pretorius,3344,2493,300.42,Coe et al. 1976
+39,Tanzania,Lioliondo,5423,5000,4696.91,Coe et al. 1976
+40,Australia,Bond Springs,19,19,79.24,"Newsome 1965,1965a"
+41,Australia,Charlie Creek,78,78,127.41,"Newsome 1965,1965a"
+42,Australia,Derwent,4,4,119.92,"Newsome 1965,1965a"
+43,Australia,Hamilton Down,23,23,93.01,"Newsome 1965,1965a"
+44,Tasmania,Mount William,2339,1200,785.74,J. F. Eisenberg (pers. comm.)
+45,Florida,Everglade,88,88,334.54,Loveless 1959
+46,California,Imperial Valley,15,15,24.76,Longhurst et al. 1952
+47,California,Kern River,137,137,162.89,Longhurst et al. 1952
+48,Texas,Llano Basin,2063,2063,1915.73,Teer et al. 1965
+49,Mississippi,Greenville,695,695,530.62,Sigler-Eisenberg ca. 1993
+50,Arizona,3-Bar Ranch,146,511,373.85,Swank 1958
+51,South Carolina,Greenwood,303,303,617.69,Sigler-Eisenberg ca. 1993
+52,Oklahoma,Wichita Mountain,815,815,1235.53,McHugh 1958
+53,Tennessee,Bolivar,465,465,322.85,Sigler-Eisenberg ca. 1993
+54,Arizona,Mingus,199,298,231.3,Swank 1958
+55,California,Lake County,792,367,188.14,Taber and Dasmann 1957
+56,California,Jawbone deer,510,246,287.13,Leopond et al. 1952
+57,California,Hayfork,411,411,317.24,Longhurst et al. 1952
+58,California,Sacramento,745,745,144.79,Longhurst et al. 1952
+59,Nevada,Belted Mountains,58,58,66.14,Rue 1978
+60,Japan,Sendai deer,1162,650,539.91,Ito 1967
+61,Nevada,Trinity Mountains,19,19,72.64,Rue 1978
+62,Arizona,Prescott,183,325,375.84,Swank 1958
+63,California,White Mountains,17,17,38.72,Longhurst et al. 1952
+64,Utah,Oak Creek deer,761,414,291.6,Robinette et al. 1977
+65,California,Yosemite deer,228,228,231.81,Longhurst et al. 1952
+66,California,Mono Lake deer,165,165,51.82,Longhurst et al. 1952
+67,Washington,Hoh elk,1143,179,262.68,Schwartz and Mitchell 1945
+68,Nevada,Battle Mountain,26,26,34.77,Gruell and Parez 1963
+69,Washington,Humtulips,90,135,307.99,Schwartz and Mitchell 1945
+70,Michigan,Reserve,678,550,330.83,McCullough 1979
+71,Nevada,Schell Creek deer,314,314,108.04,Reference misplaced
+72,Utah,Uncompahgre deer,547,246,375.83,Kuffeld et al. 1980
+73,Arizona,Kaibab deer,235,235,127.01,Russo 1964; Swank 1958
+74,Montana,Crow Reservation,1655,1055,882.18,McHugh 1958
+75,Colorado,Ouray deer,612,489,622.5,Kuffeld et al. 1980
+76,South Dakota,Wind Cave,1437,862,961.21,McHugh 1958
+77,California,Orick Prairie,132,132,272.16,Harper et al. 1967
+78,California,Hat Creek,128,128,185.23,Longhurst et al. 1952
+79,Montana,Missouri Breaks,1312,650,861.82,Mackie 1970
+80,Washington,Queets,599,199,252.18,Schwartz and Mitchell 1945
+81,Montana,Sun River elk,595,659,1366.79,Knight 1970
+82,Washington,Elwha elk,670,340,293.37,Schwartz and Mitchell 1945
+83,Idaho,Big Wood,296,296,168.59,Tanner 1965
+84,Newfoundland,Zero,690,328,168.24,Bergerud 1974; Bergerud and Manuel 1969
+85,Minnesota,Deer herd,97,97,199.59,Floyd et al. 1979
+86,Scotland,Rhum Island deer,1388,1041,422.13,Clutton-Brock et al. 1982
+87,Michigan,Isle Royal,674,303,198.28,Nlech 1966
+88,Canada,Alberta moose,179,179,227.2,Rolley and Keith 1980
+89,Canada,"Fort McKay, Alberta",274,274,195.33,Hauge and Keith 1981
+90,Wyoming,Yellowstone,1538,769,466.28,McHugh 1958
+91,Alaska,Fortymile herd,181,181,72.53,Hemming 1971
+92,Alaska,Yukon moose,129,129,85.22,Evans et al. 1966
+93,Alaska,Beaver herd,12,12,92.37,Hemming 1971
+94,Alaska,Porcupine herd,95,95,59.54,Hemming 1971
+95,Alaska,Kenai moose,246,196,152.2,Evans et al. 1966
+96,Alaska,Valdez,66,66,167.73,Hemming 1971
+97,Alaska,Peninsula caribou,425,255,127.92,Hemming 1971
+98,Canada,Kaminuriak herd,95,952,41.57,Parker 1972
+99,Alaska,Arctic herd,55,55,37.71,Hemming 1971
+100,Greenland,W. Greenland caribou,32,32,19.58,Thing 1981
+101,Russia,Coastal Siberia,10,10,17.35,PoulovetaL 1971
+102,Canada,Boothia Peninsula,10,10,10.88,Parker 1972
+103,Kenya,Amboseli Park,4848,3539,58.85,Cœ et aL 1978; Western 1975
+104,Zimbabwe,Henderson’s Ranch,2869,2582,842.61,Dasmann and Mossman 1962
+105,Upper Volta,Arli,1831,1831,1516.4,Green 1979
+106,Nigeria,Kainji Lake,1200,1200,1324.85,Milligan et aL 1982
+107,Ivory Coast,Comoe,212,212,528.55,Geering and Bokdam 1973
