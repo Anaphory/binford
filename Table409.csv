@@ -1,35 +1,35 @@
-GROUP NO,STATE,NAME,BIOMASS,BIOSMALL,EXPREY,REFERENCE(S)
-1,Sri Lanka,Wilpattu,766,330,398.32,Eisenberg and Seidensticker 1976; McKay and Eisenberg 1974
-2,Sri Lanka,Gal Oya,886,458,662.8,Eisenberg and Seidensticker 1976; McKay and Eisenberg 1974
-3,Java,Udjung Kulon,492,492,406.36,Hougerwerf 1970; McKay and Eisenberg 1974
-4,India,Gir,6800,6800,410.01,Eisenberg and Seidensticker 1976; Schaller 1967
-5,India,Kanha,2437,2437,748.12,Eisenberg and Seidensticker 1976; Schaller 1967
-6,India,Jaldapura,984,600,339.35,Eisenberg and Seidensticker 1976; Schaller 1967
-7,India,Bharatpur,4160,1617,474.61,Eisenberg and Seidensticker 1976; Schaller 1967
-8,India,Kazaranga,2058,900,386.69,Eisenberg and Seidensticker 1976; Schaller 1967; Spillett 1967
-9,Nepal,Royal Chitawan,5370,1790,1245.98,Eisenberg and Seidensticker 1976; Schaller 1967
-10,Panama,Barro Colorado,542,169,222.14,Eisenberg 1980; Eisenberg and Thorington 1973
-11,Venezuela,Calabozo,8684,3654,2303.81,Eisenberg et al. 1979
-12,Venezuela,Hato,7460,3730,3694.37,Eisenberg 1980; Eisenberg etaL 1979
-13,Chile,Chono Island,175,175,375.75,E. Piana (pers. comm.)
-14,Argentina,Tierra Del Fuego,125,125,93,E. Piana (pers. comm.)
-15,Kenya,Lake Rudolf,405,205,53.96,Coe et aL 1976
-16,Ghana,Tano Nimri,94,150,191.37,Collins 1958
-17,Kenya,Tsavo Park,4210,1690,1933.4,Coe et aL 1976
-18,Uganda,Kabalega Falls,10164,2258,1370.15,Lock 1977
-19,Tanzania,Mkomasi,1731,1731,1357.66,Coe etal. 1976
-20,Uganda,Queen Elizabeth,18352,8282,9768.28,Field and Laws 1970; Spinage 1982
-21,Rwanda,Akagera Park,3650,2259,2421.58,Coe et al. 1976
-22,Tanzania,Ngorongoro,7561,7339,4197.01,Coe et aL 1976
-23,Cameroon,Boubaldijidah,2164,1788,1870.49,VanLavieren and Bosch 1977
-24,Kenya,Samburu,2018,1300,1012.11,Coe et aL 1976
-25,Tanzania,Serengeti,8352,8142,8929.25,Coe et al. 1976; Lamprey 1964; Sinclair and Norton-Griffiths (eds.) 1979
-26,South Africa,Kruger Park north,984,659,446.64,Coe et al. 1976
-27,Zimbabwe,Sengwa,2824,1581,2796.35,Coe et al. 1976
+GROUP NO,STATE,NAME,BIOMASS,BIOSMALL,EXPREY,REFERENCE(S),latitude,longitude,nominatim
+1,Sri Lanka,Wilpattu,766,330,398.32,Eisenberg and Seidensticker 1976; McKay and Eisenberg 1974,8.4494741,80.01334069900335,https://nominatim.openstreetmap.org/details.php?osmtype=W&osmid=199462550
+2,Sri Lanka,Gal Oya,886,458,662.8,Eisenberg and Seidensticker 1976; McKay and Eisenberg 1974,7.1767284,81.39594762511132,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=6000772
+3,Java,Udjung Kulon,492,492,406.36,Hougerwerf 1970; McKay and Eisenberg 1974,-6.75144895,105.31779555371551,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=7689326
+4,India,Gir,6800,6800,410.01,Eisenberg and Seidensticker 1976; Schaller 1967,21.12677885,70.77479518262551,https://nominatim.openstreetmap.org/details.php?osmtype=W&osmid=677378085
+5,India,Kanha,2437,2437,748.12,Eisenberg and Seidensticker 1976; Schaller 1967,22.6397894,80.3182061,https://nominatim.openstreetmap.org/details.php?osmtype=N&osmid=3098385186
+6,India,Jaldapura,984,600,339.35,Eisenberg and Seidensticker 1976; Schaller 1967,26.68477385,89.30471768931005,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=9462851
+7,India,Bharatpur,4160,1617,474.61,Eisenberg and Seidensticker 1976; Schaller 1967,27.16505705,77.51865035574482,https://nominatim.openstreetmap.org/details.php?osmtype=W&osmid=86421770
+8,India,Kazaranga,2058,900,386.69,Eisenberg and Seidensticker 1976; Schaller 1967; Spillett 1967,26.65910305,93.3899036935232,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=9483703
+9,Nepal,Royal Chitawan,5370,1790,1245.98,Eisenberg and Seidensticker 1976; Schaller 1967,27.618556599999998,84.45385600798173,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=4589410
+10,Panama,Barro Colorado,542,169,222.14,Eisenberg 1980; Eisenberg and Thorington 1973,9.1645048,-79.83700703476148,https://nominatim.openstreetmap.org/details.php?osmtype=W&osmid=227983094
+11,Venezuela,Calabozo,8684,3654,2303.81,Eisenberg et al. 1979,8.33863165,-66.62848948117781,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=3418455
+12,Venezuela,Hato,7460,3730,3694.37,Eisenberg 1980; Eisenberg et al. 1979,8.9334555,-68.0822027,https://nominatim.openstreetmap.org/details.php?osmtype=N&osmid=5270887509
+13,Chile,Chono Island,175,175,375.75,E. Piana (pers. comm.),-45.4698325,-73.70567430344533,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=1982386
+14,Argentina,Tierra Del Fuego,125,125,93,E. Piana (pers. comm.),-54.628681799999995,-68.47789619288804,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=3213872
+15,Kenya,Lake Rudolf,405,205,53.96,Coe et al. 1976,3.52559005,36.074506156741236,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=1969016
+16,Ghana,Tano Nimri,94,150,191.37,Collins 1958,5.6054,-2.6285,https://www.openstreetmap.org/way/113058101
+17,Kenya,Tsavo Park,4210,1690,1933.4,Coe et al. 1976,-2.9922305,38.4609097,https://nominatim.openstreetmap.org/details.php?osmtype=N&osmid=44914470
+18,Uganda,Kabalega Falls,10164,2258,1370.15,Lock 1977,2.2784944,31.6858938,https://nominatim.openstreetmap.org/details.php?osmtype=N&osmid=2686178416
+19,Tanzania,Mkomasi,1731,1731,1357.66,Coe et al. 1976,-4.8076851,38.1910354,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=8443751
+20,Uganda,Queen Elizabeth,18352,8282,9768.28,Field and Laws 1970; Spinage 1982,-0.1252661,30.15260818933904,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=5987145
+21,Rwanda,Akagera Park,3650,2259,2421.58,Coe et al. 1976,-1.6177,30.5711,https://www.geonames.org/202154/parc-national-de-l-akagera.html
+22,Tanzania,Ngorongoro,7561,7339,4197.01,Coe et al. 1976,-3.0637869,35.42103291123987,https://nominatim.openstreetmap.org/details.php?osmtype=W&osmid=43196616
+23,Cameroon,Boubaldijidah,2164,1788,1870.49,VanLavieren and Bosch 1977,8.672705449999999,14.61810597759004,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=10324805
+24,Kenya,Samburu,2018,1300,1012.11,Coe et al. 1976,1.5394463,36.94216599162042,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=3495559
+25,Tanzania,Serengeti,8352,8142,8929.25,Coe et al. 1976; Lamprey 1964; Sinclair and Norton-Griffiths (eds.) 1979,-1.9966258999999997,34.74254365165897,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=1243797
+26,South Africa,Kruger Park north,984,659,446.64,Coe et al. 1976,-23.915303350000002,31.49070131950694,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=1752987
+27,Zimbabwe,Sengwa,2824,1581,2796.35,Coe et al. 1976,-17.6713518,28.2398682,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=2638608
 28,Zimbabwe,Victoria Falls,2715,3117,2983.57,Dasmann and Mossman 1962
-29,South Africa,Kruger Park south,3783,2554,922.56,Coe etal. 1976
-30,Tanzania,Ruaha,3909,664,9104,Barnes and Douglas-Hamilton 1982; Coe etaL 1976
-31,Kenya,Lake Nakura,6688,5799,7863.57,Coeet al. 1976
+29,South Africa,Kruger Park south,3783,2554,922.56,Coe et al. 1976
+30,Tanzania,Ruaha,3909,664,9104,Barnes and Douglas-Hamilton 1982; Coe et al. 1976
+31,Kenya,Lake Nakura,6688,5799,7863.57,Coe et al. 1976
 32,Kenya,Nairobi Park,4824,4438,7169.79,Coe et al. 1976; Lamprey 1964
 33,Namibia,Etosha Park,1050,526,622.82,East 1984; Hofmeyer 1980; loubert and Mostert 1975
 34,Tanzania,Doma Mikumi,2722,1048,2964.52,Lamprey 1964
@@ -99,10 +99,10 @@ GROUP NO,STATE,NAME,BIOMASS,BIOSMALL,EXPREY,REFERENCE(S)
 98,Canada,Kaminuriak herd,95,952,41.57,Parker 1972
 99,Alaska,Arctic herd,55,55,37.71,Hemming 1971
 100,Greenland,W. Greenland caribou,32,32,19.58,Thing 1981
-101,Russia,Coastal Siberia,10,10,17.35,PoulovetaL 1971
+101,Russia,Coastal Siberia,10,10,17.35,Poulov et al. 1971
 102,Canada,Boothia Peninsula,10,10,10.88,Parker 1972
-103,Kenya,Amboseli Park,4848,3539,58.85,Cœ et aL 1978; Western 1975
+103,Kenya,Amboseli Park,4848,3539,58.85,Cœ et al. 1978; Western 1975
 104,Zimbabwe,Henderson’s Ranch,2869,2582,842.61,Dasmann and Mossman 1962
 105,Upper Volta,Arli,1831,1831,1516.4,Green 1979
-106,Nigeria,Kainji Lake,1200,1200,1324.85,Milligan et aL 1982
+106,Nigeria,Kainji Lake,1200,1200,1324.85,Milligan et al. 1982
 107,Ivory Coast,Comoe,212,212,528.55,Geering and Bokdam 1973
