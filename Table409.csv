@@ -1,4 +1,4 @@
-GROUP NO,STATE,NAME,BIOMASS,BIOSMALL,EXPREY,REFERENCE(S),latitude,longitude,nominatim
+GROUP NO,STATE,NAME,BIOMASS,BIOSMALL,EXPREY,REFERENCE(S),latitude,longitude,location-source
 1,Sri Lanka,Wilpattu,766,330,398.32,Eisenberg and Seidensticker 1976; McKay and Eisenberg 1974,8.4494741,80.01334069900335,https://nominatim.openstreetmap.org/details.php?osmtype=W&osmid=199462550
 2,Sri Lanka,Gal Oya,886,458,662.8,Eisenberg and Seidensticker 1976; McKay and Eisenberg 1974,7.1767284,81.39594762511132,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=6000772
 3,Java,Udjung Kulon,492,492,406.36,Hougerwerf 1970; McKay and Eisenberg 1974,-6.75144895,105.31779555371551,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=7689326
@@ -26,14 +26,14 @@ GROUP NO,STATE,NAME,BIOMASS,BIOSMALL,EXPREY,REFERENCE(S),latitude,longitude,nomi
 25,Tanzania,Serengeti,8352,8142,8929.25,Coe et al. 1976; Lamprey 1964; Sinclair and Norton-Griffiths (eds.) 1979,-1.9966258999999997,34.74254365165897,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=1243797
 26,South Africa,Kruger Park north,984,659,446.64,Coe et al. 1976,-23.915303350000002,31.49070131950694,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=1752987
 27,Zimbabwe,Sengwa,2824,1581,2796.35,Coe et al. 1976,-17.6713518,28.2398682,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=2638608
-28,Zimbabwe,Victoria Falls,2715,3117,2983.57,Dasmann and Mossman 1962
-29,South Africa,Kruger Park south,3783,2554,922.56,Coe et al. 1976
-30,Tanzania,Ruaha,3909,664,9104,Barnes and Douglas-Hamilton 1982; Coe et al. 1976
-31,Kenya,Lake Nakura,6688,5799,7863.57,Coe et al. 1976
-32,Kenya,Nairobi Park,4824,4438,7169.79,Coe et al. 1976; Lamprey 1964
-33,Namibia,Etosha Park,1050,526,622.82,East 1984; Hofmeyer 1980; loubert and Mostert 1975
-34,Tanzania,Doma Mikumi,2722,1048,2964.52,Lamprey 1964
-35,Zambia,Luangwa,11576,4141,2546.25,Caughley and Goddard 1975; Naylor 1973
+28,Zimbabwe,Victoria Falls,2715,3117,2983.57,Dasmann and Mossman 1962,-18.0372659,25.771803838735384,https://nominatim.openstreetmap.org/details.php?osmtype=W&osmid=783841899
+29,South Africa,Kruger Park south,3783,2554,922.56,Coe et al. 1976,-23.915303350000002,31.49070131950694,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=1752987
+30,Tanzania,Ruaha,3909,664,9104,Barnes and Douglas-Hamilton 1982; Coe et al. 1976,-7.8016545,34.37302039699689,https://nominatim.openstreetmap.org/details.php?osmtype=W&osmid=362940538
+31,Kenya,Lake Nakura,6688,5799,7863.57,Coe et al. 1976,-0.39339345000000003,36.08585746228462,https://nominatim.openstreetmap.org/details.php?osmtype=W&osmid=83903601
+32,Kenya,Nairobi Park,4824,4438,7169.79,Coe et al. 1976; Lamprey 1964,-1.37456595,36.83970163880481,https://nominatim.openstreetmap.org/details.php?osmtype=W&osmid=25540984
+33,Namibia,Etosha Park,1050,526,622.82,East 1984; Hofmeyer 1980; loubert and Mostert 1975,-18.9789515,15.754024793768757,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=2982497
+34,Tanzania,Doma Mikumi,2722,1048,2964.52,Lamprey 1964,-7.2670257,37.156150435785634,https://nominatim.openstreetmap.org/details.php?osmtype=W&osmid=135114633
+35,Zambia,Luangwa,11576,4141,2546.25,Caughley and Goddard 1975; Naylor 1973,-12.6884288,32.0644569,https://nominatim.openstreetmap.org/details.php?osmtype=R&osmid=318645
 36,South Africa,Umfolozi,4385,2197,3802.57,Mentis 1970
 37,South Africa,Hlu-Hluhluwe,8094,6588,1097.29,"Bourquin et al. 1971; Mentis 1970,1980"
 38,South Africa,William Pretorius,3344,2493,300.42,Coe et al. 1976
